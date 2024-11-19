@@ -1,0 +1,17 @@
+C:\dev\CursoC#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.csproj.AssemblyReference.cache
+C:\dev\CursoC#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoC#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.AssemblyInfoInputs.cache
+C:\dev\CursoC#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.AssemblyInfo.cs
+C:\dev\CursoC#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.csproj.CoreCompileInputs.cache
+C:\dev\CursoC#\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net8.0\ConversorDeMoedas.exe
+C:\dev\CursoC#\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net8.0\ConversorDeMoedas.deps.json
+C:\dev\CursoC#\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net8.0\ConversorDeMoedas.runtimeconfig.json
+C:\dev\CursoC#\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net8.0\ConversorDeMoedas.dll
+C:\dev\CursoC#\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net8.0\ConversorDeMoedas.pdb
+C:\dev\CursoC#\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\dev\CursoC#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\Converso.FCC2958C.Up2Date
+C:\dev\CursoC#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.dll
+C:\dev\CursoC#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\refint\ConversorDeMoedas.dll
+C:\dev\CursoC#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.pdb
+C:\dev\CursoC#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.genruntimeconfig.cache
+C:\dev\CursoC#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\ref\ConversorDeMoedas.dll
